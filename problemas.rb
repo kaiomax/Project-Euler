@@ -1,4 +1,4 @@
-# Exercícios - Kaio Max	=]		
+# Exercícios - Kaio Max		
 
 			##### Problema 1 #####
 
